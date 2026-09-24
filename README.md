@@ -47,6 +47,14 @@ My repositories include applications developed using Java, Python, JavaScript, K
 
 Check out my repositories to explore my work!
 
+### 🖥️ Java Screensaver
+
+A Java desktop application that displays animated geometric shapes using Java Swing and object-oriented programming.
+
+**Technologies:** Java, Java Swing, OOP
+
+[🔗 View Project on GitHub](https://github.com/yazanshurbaji/Java-Screensaver)
+
 ---
 
 ## 📊 GitHub Statistics
