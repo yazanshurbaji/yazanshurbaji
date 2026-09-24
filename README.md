@@ -10,7 +10,7 @@ IT Programming Student | Aspiring Software Developer
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 🎓 Studying IT Programming at Nova Scotia Community College (NSCC).
 - 💻 Passionate about software development and building practical applications.
@@ -20,15 +20,15 @@ IT Programming Student | Aspiring Software Developer
 
 ---
 
-### 🛠️ Languages & Technologies
+## 🛠️ Languages & Technologies
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,html,css,kotlin,cpp,c,mongodb,mysql,git,github,vscode,idea" />
 </p>
 
 ---
 
-### 📚 What I'm Currently Learning
+## 📚 What I'm Currently Learning
 
 - Object-Oriented Programming (OOP)
 - Java Application Development
@@ -39,7 +39,7 @@ IT Programming Student | Aspiring Software Developer
 
 ---
 
-### 🚀 My Projects
+## 🚀 My Projects
 
 I'm currently working on academic and personal programming projects.
 
@@ -49,7 +49,7 @@ Check out my repositories to explore my work!
 
 ---
 
-### 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yazanshurbaji&show_icons=true&theme=tokyonight" />
@@ -61,11 +61,35 @@ Check out my repositories to explore my work!
 
 ---
 
-### 📫 Connect With Me
+## 📫 Connect With Me
 
-<p align="left">
+<p align="center">
+
+  <a href="mailto:yazanshu0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="tel:+19029894247">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white" />
+  </a>
+
   <a href="https://github.com/yazanshurbaji">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+</p>
+
+<p align="center">
+  📧 Email:
+  <a href="mailto:yazanshu0@gmail.com">
+    yazanshu0@gmail.com
+  </a>
+</p>
+
+<p align="center">
+  📱 Phone:
+  <a href="tel:+19029894247">
+    +1 (902) 989-4247
   </a>
 </p>
 
